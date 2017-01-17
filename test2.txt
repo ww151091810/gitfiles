@@ -1,2 +1,4 @@
 afhaifogvvivb
 2ab5aa8ava
+Creating a new branch is quick and simple.
+Creating a new branch is not fast forward.
